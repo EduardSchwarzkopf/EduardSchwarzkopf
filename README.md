@@ -15,7 +15,9 @@ Autodidactic, focused problem-solver and minimalist.
 
 ## Certs
 
+<a target="https://www.credly.com/users/eduard-schwarzkopf.b8f2e90f"><img alt="AWS Certified Developer - Associate" src="https://github.com/EduardSchwarzkopf/EduardSchwarzkopf/assets/48969167/0c3ca4f7-df5f-42e5-b574-a602bcca6fa5" width="100"></a>
 <a target="_blank" href="https://www.credly.com/users/eduard-schwarzkopf.b8f2e90f"><img alt="AWS Certified SysOps Administrator - Associate" src="https://github.com/EduardSchwarzkopf/EduardSchwarzkopf/assets/48969167/cbd5f3bf-9d8c-466b-8e4d-fb9fa537eee9" width="100"></a>
 <a target="_blank" href="https://www.credly.com/users/eduard-schwarzkopf.b8f2e90f"><img alt="AWS Certified Solutions Architect - Associate" src="https://github.com/EduardSchwarzkopf/EduardSchwarzkopf/assets/48969167/63eb4271-7ab0-4fab-a2a2-5ebca9ccf2f9" width="100"></a>
 <a target="_blank" href="https://www.credly.com/users/eduard-schwarzkopf.b8f2e90f"><img alt="AWS Certified Cloud Practitioner" src="https://github.com/EduardSchwarzkopf/EduardSchwarzkopf/assets/48969167/27c0e34c-1055-4b62-9528-bfbdb72d2e24" width="100">
 </a>
+

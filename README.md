@@ -9,10 +9,11 @@
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## About me 🧡
-Autodidactic, focused problem-solver and minimalist. 
+Autodidactic, focused problem-solver, and minimalist. 
 
 ## Certs
 
+<a target="_blank" href="https://www.credly.com/users/eduard-schwarzkopf.b8f2e90f"><img alt="CKA: Certified Kubernetes Administrator" src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="100">
 <a target="_blank" href="https://www.credly.com/users/eduard-schwarzkopf.b8f2e90f"><img alt="AWS Certified Security – Specialty" src="https://images.credly.com/size/680x680/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="100">
 <a target="_blank" href="https://www.credly.com/users/eduard-schwarzkopf.b8f2e90f"><img alt="AWS Certified Developer - Associate" src="https://github.com/EduardSchwarzkopf/EduardSchwarzkopf/assets/48969167/0c3ca4f7-df5f-42e5-b574-a602bcca6fa5" width="100"></a>
 <a target="_blank" href="https://www.credly.com/users/eduard-schwarzkopf.b8f2e90f"><img alt="AWS Certified SysOps Administrator - Associate" src="https://github.com/EduardSchwarzkopf/EduardSchwarzkopf/assets/48969167/cbd5f3bf-9d8c-466b-8e4d-fb9fa537eee9" width="100"></a>

@@ -21,3 +21,6 @@ Autodidactic, focused problem-solver, and minimalist.
 <a target="_blank" href="https://www.credly.com/users/eduard-schwarzkopf.b8f2e90f"><img alt="AWS Certified Cloud Practitioner" src="https://github.com/EduardSchwarzkopf/EduardSchwarzkopf/assets/48969167/27c0e34c-1055-4b62-9528-bfbdb72d2e24" width="100">
 </a>
 
+## Stats
+
+![Eduard's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardSchwarzkopf)

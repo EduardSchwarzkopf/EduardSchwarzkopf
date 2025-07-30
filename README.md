@@ -2,7 +2,7 @@
 
 
 ## My Dev Tech-Stack 💻 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![OpenTofu](https://img.shields.io/badge/opentofu-FFDA18?style=for-the-badge&logo=opentofu&logoColor=black)
